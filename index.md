@@ -4,7 +4,7 @@ I am currently majoring in Computer Science at CUNY of Queens College. I am in m
 Check my resume to know more about me.
 
 For more details, see [Portfolio](https://sheisol310.github.io/Portfolio/).
-
+Or check my [Linkedin](https://www.linkedin.com/in/chingkung310/).
 ### Cuny Tech Prep
 
 As a data analysis role in cohort8 of CTP, I will graudally update the board whenever I finish assignments or side projects.
