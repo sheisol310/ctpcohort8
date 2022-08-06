@@ -10,10 +10,9 @@ For more details, see [Portfolio](https://sheisol310.github.io/Portfolio/).
 As a data analysis role in cohort8 of CTP, I will graudally update the board whenever I finish assignments or side projects.
 
 ```markdown
-Syntax highlighted code block
+To be updated.......
 
-# To be updated.......
-
+# Header
 ## Header 2
 ### Header 3
 
